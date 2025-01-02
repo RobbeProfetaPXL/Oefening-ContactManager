@@ -1,0 +1,2 @@
+C:\Users\School\Documents\Schooljaar 2024-25\.Net Advanced\Examenstuderen\MVC\retry\Guts-DotNetAdvanced-24-25\3_API-RazorPages\ContactManager\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\School\Documents\Schooljaar 2024-25\.Net Advanced\Examenstuderen\MVC\retry\Guts-DotNetAdvanced-24-25\3_API-RazorPages\ContactManager\ContactManager.Infrastructure\obj\Debug\net8.0\ContactManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
